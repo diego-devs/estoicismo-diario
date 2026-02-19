@@ -620,5 +620,19 @@
       "cierre",
       "reflexión vespertina"
     ]
+  },
+  {
+    "date": "2026-02-19",
+    "month": 2,
+    "day": 19,
+    "title": "El Banquete de la Vida",
+    "author": "Epicteto",
+    "tags": [
+      "moderación",
+      "paciencia",
+      "gratitud",
+      "deseo",
+      "banquete"
+    ]
   }
 ]
