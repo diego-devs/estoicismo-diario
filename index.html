@@ -587,6 +587,27 @@
             color: var(--text-secondary);
         }
 
+        .subscribe-copy-btn {
+            display: inline-block;
+            padding: 0.65rem 1.75rem;
+            background: transparent;
+            color: var(--accent);
+            border: 1px solid var(--accent-dim);
+            border-radius: 100px;
+            font-family: var(--sans);
+            font-size: 0.85rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: var(--transition);
+            margin-bottom: 1.25rem;
+            margin-left: 0.5rem;
+        }
+
+        .subscribe-copy-btn:hover {
+            background: var(--accent-glow);
+            border-color: var(--accent);
+        }
+
         /* ═══════════════════════════════════════
            FOOTER
            ═══════════════════════════════════════ */
@@ -777,9 +798,10 @@
             <h2 class="subscribe-title">Recibe la reflexión diaria en tu correo</h2>
             <p class="subscribe-desc">Cada mañana, una meditación estoica directo a tu bandeja de entrada. Sin spam, solo sabiduría.</p>
             <a href="mailto:david.asistente.ai@gmail.com?subject=SUSCRIBIR&body=Quiero%20recibir%20la%20reflexión%20estoica%20diaria." class="subscribe-btn">
-                ✉️ Suscribirme
+                ✉️ Suscribirme por correo
             </a>
-            <p class="subscribe-note">Envía un correo con asunto "SUSCRIBIR" a <strong>david.asistente.ai@gmail.com</strong> y listo. Para cancelar, envía "CANCELAR".</p>
+            <button class="subscribe-copy-btn" onclick="copyEmail(this)">📋 Copiar dirección de correo</button>
+            <p class="subscribe-note">Envía un correo con asunto <strong>"SUSCRIBIR"</strong> a <strong>david.asistente.ai@gmail.com</strong> y recibirás la reflexión cada mañana. Para cancelar, envía <strong>"CANCELAR"</strong>.</p>
         </div>
     </section>
 
@@ -1074,6 +1096,23 @@
             openSearch();
         }
     });
+
+    /* ═══════════════════════════════════════
+       COPY EMAIL
+       ═══════════════════════════════════════ */
+    function copyEmail(btn) {
+        navigator.clipboard.writeText('david.asistente.ai@gmail.com').then(() => {
+            const original = btn.textContent;
+            btn.textContent = '✅ ¡Copiado!';
+            btn.style.borderColor = '#4ade80';
+            btn.style.color = '#4ade80';
+            setTimeout(() => {
+                btn.textContent = original;
+                btn.style.borderColor = '';
+                btn.style.color = '';
+            }, 2000);
+        });
+    }
 
     /* ═══════════════════════════════════════
        BOOT
