@@ -515,6 +515,79 @@
         }
 
         /* ═══════════════════════════════════════
+           SUBSCRIBE
+           ═══════════════════════════════════════ */
+        .subscribe-section {
+            max-width: 900px;
+            margin: 0 auto 2rem;
+            padding: 0 1.5rem;
+        }
+
+        .subscribe-inner {
+            text-align: center;
+            padding: 3rem 2rem;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+        }
+
+        .subscribe-label {
+            font-size: 0.7rem;
+            font-weight: 500;
+            letter-spacing: 0.25em;
+            text-transform: uppercase;
+            color: var(--accent);
+            margin-bottom: 0.75rem;
+        }
+
+        .subscribe-title {
+            font-family: var(--serif);
+            font-size: 1.6rem;
+            font-weight: 400;
+            color: var(--text-primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .subscribe-desc {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            margin-bottom: 1.5rem;
+            max-width: 400px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .subscribe-btn {
+            display: inline-block;
+            padding: 0.85rem 2.5rem;
+            background: var(--accent);
+            color: var(--bg-primary);
+            text-decoration: none;
+            border-radius: 100px;
+            font-family: var(--sans);
+            font-size: 0.9rem;
+            font-weight: 600;
+            transition: var(--transition);
+            margin-bottom: 1rem;
+        }
+
+        .subscribe-btn:hover {
+            background: var(--accent-dim);
+            transform: translateY(-1px);
+        }
+
+        .subscribe-note {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            max-width: 450px;
+            margin: 0 auto;
+        }
+
+        .subscribe-note strong {
+            color: var(--text-secondary);
+        }
+
+        /* ═══════════════════════════════════════
            FOOTER
            ═══════════════════════════════════════ */
         .site-footer {
@@ -696,6 +769,19 @@
             </div>
         </div>
     </main>
+
+    <!-- SUBSCRIBE -->
+    <section class="subscribe-section" id="subscribe">
+        <div class="subscribe-inner">
+            <p class="subscribe-label">Newsletter</p>
+            <h2 class="subscribe-title">Recibe la reflexión diaria en tu correo</h2>
+            <p class="subscribe-desc">Cada mañana, una meditación estoica directo a tu bandeja de entrada. Sin spam, solo sabiduría.</p>
+            <a href="mailto:david.asistente.ai@gmail.com?subject=SUSCRIBIR&body=Quiero%20recibir%20la%20reflexión%20estoica%20diaria." class="subscribe-btn">
+                ✉️ Suscribirme
+            </a>
+            <p class="subscribe-note">Envía un correo con asunto "SUSCRIBIR" a <strong>david.asistente.ai@gmail.com</strong> y listo. Para cancelar, envía "CANCELAR".</p>
+        </div>
+    </section>
 
     <!-- FOOTER -->
     <footer class="site-footer">
