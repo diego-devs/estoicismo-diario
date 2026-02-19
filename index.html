@@ -515,6 +515,56 @@
         }
 
         /* ═══════════════════════════════════════
+           PAGINATION
+           ═══════════════════════════════════════ */
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 0.4rem;
+            padding: 1.5rem 0 2rem;
+        }
+
+        .page-btn {
+            font-family: var(--sans);
+            font-size: 0.85rem;
+            font-weight: 500;
+            width: 36px;
+            height: 36px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: var(--bg-card);
+            color: var(--text-secondary);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .page-btn:hover:not(.disabled):not(.active) {
+            border-color: var(--accent-dim);
+            color: var(--text-primary);
+        }
+
+        .page-btn.active {
+            background: var(--accent);
+            color: var(--bg-primary);
+            border-color: var(--accent);
+        }
+
+        .page-btn.disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .page-dots {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            padding: 0 0.25rem;
+        }
+
+        /* ═══════════════════════════════════════
            SUBSCRIBE
            ═══════════════════════════════════════ */
         .subscribe-section {
@@ -789,6 +839,7 @@
                 <p>Cargando reflexiones...</p>
             </div>
         </div>
+        <div class="pagination" id="pagination"></div>
     </main>
 
     <!-- SUBSCRIBE -->
@@ -827,6 +878,8 @@
     let articleIndex = [];
     let activeMonth = 'all';
     let expandedCard = null;
+    let currentPage = 1;
+    const PER_PAGE = 10;
 
     const MONTHS_ES = {
         1: 'Enero', 2: 'Febrero', 3: 'Marzo', 4: 'Abril',
@@ -850,7 +903,7 @@
             // Sort newest first
             articleIndex.sort((a, b) => b.date.localeCompare(a.date));
             buildMonthNav();
-            renderArticles(articleIndex);
+            renderCurrentView();
         } catch (err) {
             document.getElementById('articlesList').innerHTML =
                 `<div class="loading"><p>Error al cargar los artículos. Verifica que los archivos JSON estén disponibles.</p></div>`;
@@ -874,25 +927,48 @@
 
     function filterMonth(month, btn) {
         activeMonth = month;
+        currentPage = 1;
         document.querySelectorAll('.month-btn').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
 
-        const filtered = month === 'all'
-            ? articleIndex
-            : articleIndex.filter(a => a.month === month);
+        renderCurrentView();
+        window.scrollTo({ top: document.querySelector('.month-nav').offsetTop - 80, behavior: 'smooth' });
+    }
 
-        renderArticles(filtered);
+    function getFilteredArticles() {
+        return activeMonth === 'all'
+            ? articleIndex
+            : articleIndex.filter(a => a.month === activeMonth);
+    }
+
+    function renderCurrentView() {
+        const filtered = getFilteredArticles();
+        const totalPages = Math.ceil(filtered.length / PER_PAGE);
+        const start = (currentPage - 1) * PER_PAGE;
+        const pageArticles = filtered.slice(start, start + PER_PAGE);
+
+        renderArticles(pageArticles, filtered.length);
+        renderPagination(totalPages);
+    }
+
+    function goToPage(page) {
+        const filtered = getFilteredArticles();
+        const totalPages = Math.ceil(filtered.length / PER_PAGE);
+        if (page < 1 || page > totalPages) return;
+        currentPage = page;
+        renderCurrentView();
         window.scrollTo({ top: document.querySelector('.month-nav').offsetTop - 80, behavior: 'smooth' });
     }
 
     /* ═══════════════════════════════════════
        RENDER ARTICLES
        ═══════════════════════════════════════ */
-    function renderArticles(articles) {
+    function renderArticles(articles, totalCount) {
         const container = document.getElementById('articlesList');
         const count = document.getElementById('articlesCount');
+        const total = totalCount || articles.length;
 
-        count.textContent = `${articles.length} reflexion${articles.length !== 1 ? 'es' : ''}`;
+        count.textContent = `${total} reflexion${total !== 1 ? 'es' : ''}`;
 
         if (articles.length === 0) {
             container.innerHTML = `<div class="loading"><p>No se encontraron artículos.</p></div>`;
@@ -1053,12 +1129,14 @@
 
     function goToArticle(date) {
         closeSearch();
-        // Reset filter to all
         activeMonth = 'all';
         document.querySelectorAll('.month-btn').forEach((b, i) => {
             b.classList.toggle('active', i === 0);
         });
-        renderArticles(articleIndex);
+        // Find which page this article is on
+        const idx = articleIndex.findIndex(a => a.date === date);
+        currentPage = idx >= 0 ? Math.floor(idx / PER_PAGE) + 1 : 1;
+        renderCurrentView();
 
         setTimeout(() => {
             const card = document.querySelector(`[data-date="${date}"]`);
@@ -1071,10 +1149,11 @@
 
     function resetView() {
         activeMonth = 'all';
+        currentPage = 1;
         document.querySelectorAll('.month-btn').forEach((b, i) => {
             b.classList.toggle('active', i === 0);
         });
-        renderArticles(articleIndex);
+        renderCurrentView();
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
@@ -1096,6 +1175,28 @@
             openSearch();
         }
     });
+
+    /* ═══════════════════════════════════════
+       PAGINATION
+       ═══════════════════════════════════════ */
+    function renderPagination(totalPages) {
+        const container = document.getElementById('pagination');
+        if (totalPages <= 1) { container.innerHTML = ''; return; }
+
+        let html = '';
+        html += `<button class="page-btn ${currentPage === 1 ? 'disabled' : ''}" onclick="goToPage(${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>‹</button>`;
+
+        for (let i = 1; i <= totalPages; i++) {
+            if (totalPages > 7 && i > 2 && i < totalPages - 1 && Math.abs(i - currentPage) > 1) {
+                if (i === 3 || i === totalPages - 2) html += `<span class="page-dots">…</span>`;
+                continue;
+            }
+            html += `<button class="page-btn ${i === currentPage ? 'active' : ''}" onclick="goToPage(${i})">${i}</button>`;
+        }
+
+        html += `<button class="page-btn ${currentPage === totalPages ? 'disabled' : ''}" onclick="goToPage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}>›</button>`;
+        container.innerHTML = html;
+    }
 
     /* ═══════════════════════════════════════
        COPY EMAIL
