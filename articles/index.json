@@ -634,5 +634,19 @@
       "deseo",
       "banquete"
     ]
+  },
+  {
+    "date": "2026-02-20",
+    "month": 2,
+    "day": 20,
+    "title": "El Gran Desfile del Deseo",
+    "author": "Epicteto",
+    "tags": [
+      "deseo",
+      "moderación",
+      "gratitud",
+      "impulso",
+      "satisfacción"
+    ]
   }
 ]
