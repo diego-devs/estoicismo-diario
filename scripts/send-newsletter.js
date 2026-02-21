@@ -97,9 +97,9 @@ function buildEmailHTML(article, date) {
     <!-- Quote -->
     <div style="padding:1.5rem 2rem;">
       <div style="border-left:3px solid #c9a96e;padding:1.25rem 1.5rem;background:#1a1a1f;border-radius:4px;">
-        <p style="font-style:italic;font-size:1.1rem;line-height:1.7;color:#e8e6e3;margin:0 0 0.75rem;">"${article.quote}"</p>
+        <p style="font-style:italic;font-size:1.1rem;line-height:1.7;color:#e8e6e3;margin:0 0 0.75rem;">"${typeof article.quote === 'object' ? article.quote.text : article.quote}"</p>
         <p style="font-size:0.8rem;color:#c9a96e;margin:0;">— ${article.author}</p>
-        <p style="font-size:0.75rem;color:#5a5a5a;font-style:italic;margin:0.25rem 0 0;">${article.source}</p>
+        <p style="font-size:0.75rem;color:#5a5a5a;font-style:italic;margin:0.25rem 0 0;">${typeof article.quote === 'object' ? article.quote.source : (article.source || '')}</p>
       </div>
     </div>
 
@@ -129,7 +129,9 @@ function buildEmailHTML(article, date) {
 }
 
 function buildEmailText(article, date) {
-  return `ESTOICISMO DIARIO — ${date}\n\n${article.title}\n${article.author}\n\n"${article.quote}"\n— ${article.author} (${article.source})\n\n${article.reflection}\n\n---\nVer en el sitio: ${SITE_URL}\nPara cancelar tu suscripción, responde con asunto "CANCELAR".`;
+  const quoteText = typeof article.quote === 'object' ? article.quote.text : article.quote;
+  const sourceText = typeof article.quote === 'object' ? article.quote.source : (article.source || '');
+  return `ESTOICISMO DIARIO — ${date}\n\n${article.title}\n${article.author}\n\n"${quoteText}"\n— ${article.author} (${sourceText})\n\n${article.reflection}\n\n---\nVer en el sitio: ${SITE_URL}\nPara cancelar tu suscripción, responde con asunto "CANCELAR".`;
 }
 
 main().catch(err => { console.error(err); process.exit(1); });
