@@ -5,10 +5,14 @@
   "title": "El Gran Desfile del Deseo",
   "originalTitle": "The Grand Parade of Desire",
   "author": "Epicteto",
-  "quote": {
-    "text": "Observa cuidadosamente: antes de que hayas digerido una cosa, ya estás deseando otra. Esto te arrastra constantemente, como un torrente que no se detiene.",
-    "source": "Epicteto, Discursos, 4.1"
-  },
+  "quote": "Observa cuidadosamente: antes de que hayas digerido una cosa, ya estás deseando otra. Esto te arrastra constantemente, como un torrente que no se detiene.",
   "reflection": "Los estoicos sabían que el deseo es un desfile sin fin. Apenas conseguimos algo, ya estamos mirando lo siguiente. Es como una fila interminable de carrozas: cada una promete más que la anterior, pero ninguna entrega la satisfacción duradera que buscamos. La clave no está en dejar de desear — eso sería negar nuestra naturaleza — sino en detenernos a apreciar lo que ya tenemos. Hoy, antes de perseguir lo siguiente, pregúntate: ¿realmente necesito esto, o solo es el desfile pasando frente a mis ojos?",
-  "tags": ["deseo", "moderación", "gratitud", "impulso", "satisfacción"]
+  "tags": [
+    "deseo",
+    "moderación",
+    "gratitud",
+    "impulso",
+    "satisfacción"
+  ],
+  "source": "Epicteto, Discursos, 4.1"
 }
