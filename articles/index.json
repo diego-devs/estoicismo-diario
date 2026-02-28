@@ -737,5 +737,13 @@
     "date": "2026-02-27",
     "title": "Pagar lo que las Cosas Valen",
     "author": "Epicteto"
+  },
+  {
+    "date": "2026-02-28",
+    "month": 2,
+    "day": 28,
+    "title": "Cuando Pierdes el Control",
+    "author": "Séneca",
+    "tags": ["ira", "autocontrol", "emociones", "pausa", "serenidad", "reacción"]
   }
 ]
