@@ -735,8 +735,17 @@
   },
   {
     "date": "2026-02-27",
+    "month": 2,
+    "day": 27,
     "title": "Pagar lo que las Cosas Valen",
-    "author": "Epicteto"
+    "author": "Epicteto",
+    "tags": [
+      "valor",
+      "decisiones",
+      "prioridades",
+      "esfuerzo",
+      "sabiduría"
+    ]
   },
   {
     "date": "2026-02-28",
@@ -826,6 +835,21 @@
       "Séneca",
       "simplicidad",
       "auditoría personal"
+    ]
+  },
+  {
+    "date": "2026-03-06",
+    "month": 3,
+    "day": 6,
+    "title": "No te Cuentes Historias",
+    "author": "Epicteto",
+    "tags": [
+      "ego",
+      "narrativa personal",
+      "humildad",
+      "Epicteto",
+      "autoconocimiento",
+      "autenticidad"
     ]
   }
 ]
