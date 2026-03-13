@@ -881,5 +881,81 @@
       "paz interior",
       "reactividad"
     ]
+  },
+  {
+    "date": "2026-03-09",
+    "month": 3,
+    "day": 9,
+    "title": "Encuentra al Maestro Interior",
+    "author": "Epicteto",
+    "tags": [
+      "acción",
+      "autoexigencia",
+      "procrastinación",
+      "Epicteto",
+      "maestro interior",
+      "disciplina"
+    ]
+  },
+  {
+    "date": "2026-03-10",
+    "month": 3,
+    "day": 10,
+    "title": "Vuelve a lo Esencial",
+    "author": "Marco Aurelio",
+    "tags": [
+      "esencialismo",
+      "enfoque",
+      "simplicidad",
+      "Marco Aurelio",
+      "tranquilidad",
+      "prioridades"
+    ]
+  },
+  {
+    "date": "2026-03-11",
+    "month": 3,
+    "day": 11,
+    "title": "Si Pudieras Ver Sus Corazones",
+    "author": "Marco Aurelio",
+    "tags": [
+      "empatía",
+      "autoexamen",
+      "ira",
+      "Marco Aurelio",
+      "honestidad",
+      "juicio"
+    ]
+  },
+  {
+    "date": "2026-03-12",
+    "month": 3,
+    "day": 12,
+    "title": "Reconoce Tu Poder de Elección",
+    "author": "Epicteto",
+    "tags": [
+      "elección",
+      "percepción",
+      "opiniones",
+      "Epicteto",
+      "libertad",
+      "juicio",
+      "Sócrates"
+    ]
+  },
+  {
+    "date": "2026-03-13",
+    "month": 3,
+    "day": 13,
+    "title": "La Vista Desde Arriba",
+    "author": "Marco Aurelio",
+    "tags": [
+      "perspectiva",
+      "conciencia",
+      "cosmos",
+      "Marco Aurelio",
+      "vista desde arriba",
+      "recalibración"
+    ]
   }
 ]
