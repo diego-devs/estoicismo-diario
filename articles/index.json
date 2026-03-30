@@ -1,11 +1,41 @@
 [
   {
+    "date": "2026-03-30",
+    "month": 3,
+    "day": 30,
+    "title": "Señales de Progreso",
+    "author": "Epicteto",
+    "tags": [
+      "progreso",
+      "aprendizaje",
+      "Epicteto",
+      "humildad",
+      "autoconocimiento",
+      "opiniones",
+      "prosoche",
+      "reflexión",
+      "crecimiento",
+      "fin de mes"
+    ]
+  },
+  {
     "date": "2026-03-29",
     "month": 3,
     "day": 29,
     "title": "Empieza Hoy",
     "author": "Séneca",
-    "tags": ["tiempo", "acción", "Séneca", "presencia", "comenzar", "domingo", "procrastinación", "vivir", "carpe diem", "disciplina de la acción"]
+    "tags": [
+      "tiempo",
+      "acción",
+      "Séneca",
+      "presencia",
+      "comenzar",
+      "domingo",
+      "procrastinación",
+      "vivir",
+      "carpe diem",
+      "disciplina de la acción"
+    ]
   },
   {
     "date": "2026-03-28",
