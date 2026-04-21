@@ -1569,5 +1569,69 @@
       "calma",
       "sabiduría"
     ]
+  },
+  {
+    "date": "2026-04-17",
+    "month": 4,
+    "day": 17,
+    "title": "La Calma También Es Fortaleza",
+    "author": "Marco Aurelio",
+    "tags": [
+      "calma",
+      "Marco Aurelio",
+      "abril",
+      "fortaleza",
+      "disciplina",
+      "mente",
+      "coraje"
+    ]
+  },
+  {
+    "date": "2026-04-18",
+    "month": 4,
+    "day": 18,
+    "title": "No Le Pidas Permanencia a lo que Cambia",
+    "author": "Séneca",
+    "tags": [
+      "cambio",
+      "Séneca",
+      "abril",
+      "impermanencia",
+      "gratitud",
+      "desapego",
+      "lucidez"
+    ]
+  },
+  {
+    "date": "2026-04-19",
+    "month": 4,
+    "day": 19,
+    "title": "Tu Energía Es un Recurso Moral",
+    "author": "Epicteto",
+    "tags": [
+      "energía",
+      "Epicteto",
+      "abril",
+      "atención",
+      "rectitud",
+      "desgaste",
+      "sabiduría"
+    ]
+  },
+  {
+    "date": "2026-04-20",
+    "month": 4,
+    "day": 20,
+    "title": "Lo Bueno Se Practica Hoy",
+    "author": "Marco Aurelio",
+    "tags": [
+      "virtud",
+      "Marco Aurelio",
+      "abril",
+      "práctica",
+      "presente",
+      "disciplina",
+      "vida buena"
+    ]
   }
 ]
