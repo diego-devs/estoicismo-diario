@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-04-07",
+    "month": 4,
+    "day": 7,
+    "title": "Examina Tus Impresiones",
+    "author": "Epicteto",
+    "tags": [
+      "impresiones",
+      "percepción",
+      "Epicteto",
+      "claridad mental",
+      "disciplina",
+      "pausa",
+      "martes",
+      "abril",
+      "juicio",
+      "reacción",
+      "discursos",
+      "libertad",
+      "mente",
+      "pensamiento sin sesgos"
+    ]
+  },
+  {
     "date": "2026-04-06",
     "month": 4,
     "day": 6,
@@ -20,6 +43,24 @@
       "autoconocimiento",
       "emoción",
       "impresión"
+    ]
+  },
+  {
+    "date": "2026-04-05",
+    "month": 4,
+    "day": 5,
+    "title": "Donde Esté el Bien, Ahí Está el Beneficio",
+    "author": "Epicteto",
+    "tags": [
+      "bien",
+      "Epicteto",
+      "control",
+      "voluntad",
+      "libertad",
+      "dependencia",
+      "domingo",
+      "abril",
+      "carácter"
     ]
   },
   {
@@ -67,6 +108,24 @@
       "abril",
       "semana",
       "no apego"
+    ]
+  },
+  {
+    "date": "2026-04-02",
+    "month": 4,
+    "day": 2,
+    "title": "Una Buena Vida en Pocas Palabras",
+    "author": "Marco Aurelio",
+    "tags": [
+      "vida buena",
+      "Marco Aurelio",
+      "razón",
+      "sociabilidad",
+      "aceptación",
+      "claridad",
+      "justicia",
+      "abril",
+      "esencial"
     ]
   },
   {
@@ -324,6 +383,24 @@
       "ciclos",
       "autenticidad",
       "vivir según la naturaleza"
+    ]
+  },
+  {
+    "date": "2026-03-19",
+    "month": 3,
+    "day": 19,
+    "title": "Tu Mente Toma la Forma de lo que Piensa",
+    "author": "Marco Aurelio",
+    "tags": [
+      "pensamientos",
+      "mente",
+      "Marco Aurelio",
+      "carácter",
+      "hábitos mentales",
+      "impresiones",
+      "autoconocimiento",
+      "claridad",
+      "marzo"
     ]
   },
   {
@@ -1367,29 +1444,6 @@
       "control",
       "elección",
       "dicotomía del control"
-    ]
-  },
-  {
-    "date": "2026-04-07",
-    "month": 4,
-    "day": 7,
-    "title": "Examina Tus Impresiones",
-    "author": "Epicteto",
-    "tags": [
-      "impresiones",
-      "percepción",
-      "Epicteto",
-      "claridad mental",
-      "disciplina",
-      "pausa",
-      "martes",
-      "abril",
-      "juicio",
-      "reacción",
-      "discursos",
-      "libertad",
-      "mente",
-      "pensamiento sin sesgos"
     ]
   }
 ]
