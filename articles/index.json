@@ -1521,5 +1521,53 @@
       "error",
       "fortaleza"
     ]
+  },
+  {
+    "date": "2026-04-14",
+    "month": 4,
+    "day": 14,
+    "title": "Lo Difícil Es el Camino",
+    "author": "Marco Aurelio",
+    "tags": [
+      "obstáculo",
+      "Marco Aurelio",
+      "abril",
+      "resiliencia",
+      "carácter",
+      "dificultad",
+      "camino"
+    ]
+  },
+  {
+    "date": "2026-04-15",
+    "month": 4,
+    "day": 15,
+    "title": "No Todo Merece Tu Reacción",
+    "author": "Epicteto",
+    "tags": [
+      "reacción",
+      "Epicteto",
+      "abril",
+      "serenidad",
+      "criterio",
+      "silencio",
+      "autogobierno"
+    ]
+  },
+  {
+    "date": "2026-04-16",
+    "month": 4,
+    "day": 16,
+    "title": "Haz Tu Parte y Suelta el Resultado",
+    "author": "Séneca",
+    "tags": [
+      "control",
+      "Séneca",
+      "abril",
+      "resultado",
+      "acción correcta",
+      "calma",
+      "sabiduría"
+    ]
   }
 ]
