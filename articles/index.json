@@ -1473,5 +1473,53 @@
       "abril",
       "paz interior"
     ]
+  },
+  {
+    "date": "2026-04-11",
+    "month": 4,
+    "day": 11,
+    "title": "No Persigas el Aplauso de la Multitud",
+    "author": "Séneca",
+    "tags": [
+      "aprobación",
+      "Séneca",
+      "carácter",
+      "sábado",
+      "abril",
+      "imagen",
+      "conciencia"
+    ]
+  },
+  {
+    "date": "2026-04-12",
+    "month": 4,
+    "day": 12,
+    "title": "Haz Menos, Pero Hazlo Mejor",
+    "author": "Marco Aurelio",
+    "tags": [
+      "esencial",
+      "Marco Aurelio",
+      "domingo",
+      "abril",
+      "orden",
+      "propósito",
+      "enfoque"
+    ]
+  },
+  {
+    "date": "2026-04-13",
+    "month": 4,
+    "day": 13,
+    "title": "Empieza de Nuevo Sin Drama",
+    "author": "Epicteto",
+    "tags": [
+      "recomenzar",
+      "Epicteto",
+      "lunes",
+      "abril",
+      "disciplina",
+      "error",
+      "fortaleza"
+    ]
   }
 ]
