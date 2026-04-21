@@ -1,89 +1,1318 @@
 [
   {
-    "date": "2026-04-07",
-    "month": 4,
+    "date": "2026-01-01",
+    "month": 1,
+    "day": 1,
+    "title": "Control y Elección",
+    "author": "Epicteto",
+    "tags": [
+      "control",
+      "elección",
+      "dicotomía del control"
+    ]
+  },
+  {
+    "date": "2026-01-02",
+    "month": 1,
+    "day": 2,
+    "title": "Educación Es Libertad",
+    "author": "Epicteto",
+    "tags": [
+      "educación",
+      "libertad",
+      "aprendizaje"
+    ]
+  },
+  {
+    "date": "2026-01-03",
+    "month": 1,
+    "day": 3,
+    "title": "Sé Implacable con las Cosas que No Importan",
+    "author": "Séneca",
+    "tags": [
+      "enfoque",
+      "prioridades",
+      "atención"
+    ]
+  },
+  {
+    "date": "2026-01-04",
+    "month": 1,
+    "day": 4,
+    "title": "La Gran Arena de la Vida",
+    "author": "Epicteto",
+    "tags": [
+      "acción",
+      "participación",
+      "virtud"
+    ]
+  },
+  {
+    "date": "2026-01-05",
+    "month": 1,
+    "day": 5,
+    "title": "Aclara Tus Intenciones",
+    "author": "Séneca",
+    "tags": [
+      "intención",
+      "propósito",
+      "claridad"
+    ]
+  },
+  {
+    "date": "2026-01-06",
+    "month": 1,
+    "day": 6,
+    "title": "Donde, Quién, Qué y Por Qué",
+    "author": "Marco Aurelio",
+    "tags": [
+      "propósito",
+      "autoconocimiento",
+      "aprobación"
+    ]
+  },
+  {
+    "date": "2026-01-07",
+    "month": 1,
     "day": 7,
-    "title": "Examina Tus Impresiones",
+    "title": "Siete Funciones Claras de la Mente",
+    "author": "Epicteto",
+    "tags": [
+      "mente",
+      "conciencia",
+      "funciones mentales"
+    ]
+  },
+  {
+    "date": "2026-01-08",
+    "month": 1,
+    "day": 8,
+    "title": "Viendo las Cosas Como el Estudiante Atento",
+    "author": "Marco Aurelio",
+    "tags": [
+      "observación",
+      "aprendizaje",
+      "atención"
+    ]
+  },
+  {
+    "date": "2026-01-09",
+    "month": 1,
+    "day": 9,
+    "title": "Lo Que Controlamos y Lo Que No",
+    "author": "Epicteto",
+    "tags": [
+      "control",
+      "dicotomía del control",
+      "aceptación"
+    ]
+  },
+  {
+    "date": "2026-01-10",
+    "month": 1,
+    "day": 10,
+    "title": "Si Quieres Ser Constante",
+    "author": "Epicteto",
+    "tags": [
+      "humildad",
+      "progreso",
+      "ego"
+    ]
+  },
+  {
+    "date": "2026-01-11",
+    "month": 1,
+    "day": 11,
+    "title": "Si Quieres Ser Libre",
+    "author": "Epicteto",
+    "tags": [
+      "libertad",
+      "crítica",
+      "humildad",
+      "opiniones"
+    ]
+  },
+  {
+    "date": "2026-01-12",
+    "month": 1,
+    "day": 12,
+    "title": "La Única Riqueza Real",
+    "author": "Séneca",
+    "tags": [
+      "riqueza",
+      "deseo",
+      "moderación",
+      "codicia"
+    ]
+  },
+  {
+    "date": "2026-01-13",
+    "month": 1,
+    "day": 13,
+    "title": "Toma Vuelo de la Compañía Tóxica",
+    "author": "Epicteto",
+    "tags": [
+      "compañía",
+      "influencia",
+      "carácter",
+      "entorno"
+    ]
+  },
+  {
+    "date": "2026-01-14",
+    "month": 1,
+    "day": 14,
+    "title": "Gana la Mañana",
+    "author": "Marco Aurelio",
+    "tags": [
+      "mañana",
+      "rutina",
+      "propósito",
+      "disciplina"
+    ]
+  },
+  {
+    "date": "2026-01-15",
+    "month": 1,
+    "day": 15,
+    "title": "La Paz en el Interior",
+    "author": "Marco Aurelio",
+    "tags": [
+      "paz interior",
+      "tranquilidad",
+      "meditación",
+      "retiro"
+    ]
+  },
+  {
+    "date": "2026-01-16",
+    "month": 1,
+    "day": 16,
+    "title": "No Hagas que las Cosas Sean Más Difíciles de lo Necesario",
+    "author": "Marco Aurelio",
+    "tags": [
+      "juicio",
+      "percepción",
+      "sufrimiento",
+      "simplicidad"
+    ]
+  },
+  {
+    "date": "2026-01-17",
+    "month": 1,
+    "day": 17,
+    "title": "La Disciplina del Deseo",
+    "author": "Epicteto",
+    "tags": [
+      "deseo",
+      "aceptación",
+      "serenidad",
+      "expectativas"
+    ]
+  },
+  {
+    "date": "2026-01-18",
+    "month": 1,
+    "day": 18,
+    "title": "Observa las Palabras con Cuidado",
+    "author": "Zenón de Citio",
+    "tags": [
+      "palabras",
+      "prudencia",
+      "silencio",
+      "comunicación"
+    ]
+  },
+  {
+    "date": "2026-01-19",
+    "month": 1,
+    "day": 19,
+    "title": "Todo lo que Dijimos Ayer",
+    "author": "Marco Aurelio",
+    "tags": [
+      "presente",
+      "suposiciones",
+      "muerte",
+      "atención plena"
+    ]
+  },
+  {
+    "date": "2026-01-20",
+    "month": 1,
+    "day": 20,
+    "title": "Una Vida Regia",
+    "author": "Epicteto",
+    "tags": [
+      "aprendizaje",
+      "humildad",
+      "mente de principiante"
+    ]
+  },
+  {
+    "date": "2026-01-21",
+    "month": 1,
+    "day": 21,
+    "title": "Un Día de la Historia de la Eternidad",
+    "author": "Séneca",
+    "tags": [
+      "tiempo",
+      "brevedad de la vida",
+      "intencionalidad"
+    ]
+  },
+  {
+    "date": "2026-01-22",
+    "month": 1,
+    "day": 22,
+    "title": "El Día en la Vida de un Estoico",
+    "author": "Marco Aurelio",
+    "tags": [
+      "gratitud",
+      "mañana",
+      "perspectiva",
+      "práctica"
+    ]
+  },
+  {
+    "date": "2026-01-23",
+    "month": 1,
+    "day": 23,
+    "title": "La Verdad Sobre el Dinero",
+    "author": "Marco Aurelio",
+    "tags": [
+      "dinero",
+      "materialismo",
+      "impermanencia"
+    ]
+  },
+  {
+    "date": "2026-01-24",
+    "month": 1,
+    "day": 24,
+    "title": "Empuja Hacia Adelante",
+    "author": "Marco Aurelio",
+    "tags": [
+      "obstáculos",
+      "resiliencia",
+      "adversidad",
+      "oportunidad"
+    ]
+  },
+  {
+    "date": "2026-01-25",
+    "month": 1,
+    "day": 25,
+    "title": "La Única Prisión",
+    "author": "Séneca",
+    "tags": [
+      "miedo",
+      "libertad",
+      "valor",
+      "prisión"
+    ]
+  },
+  {
+    "date": "2026-01-26",
+    "month": 1,
+    "day": 26,
+    "title": "El Poder de un Mantra",
+    "author": "Marco Aurelio",
+    "tags": [
+      "preparación",
+      "mantra",
+      "mañana",
+      "realismo"
+    ]
+  },
+  {
+    "date": "2026-01-27",
+    "month": 1,
+    "day": 27,
+    "title": "Los Tres Pilares del Estoicismo",
+    "author": "Epicteto",
+    "tags": [
+      "disciplina",
+      "percepción",
+      "acción",
+      "deseo"
+    ]
+  },
+  {
+    "date": "2026-01-28",
+    "month": 1,
+    "day": 28,
+    "title": "Vigilando la Hora",
+    "author": "Marco Aurelio",
+    "tags": [
+      "muerte",
+      "memento mori",
+      "urgencia",
+      "bondad"
+    ]
+  },
+  {
+    "date": "2026-01-29",
+    "month": 1,
+    "day": 29,
+    "title": "Mantén la Calma, Es Solo el Comienzo",
+    "author": "Marco Aurelio",
+    "tags": [
+      "calma",
+      "perspectiva",
+      "agitación",
+      "juicio"
+    ]
+  },
+  {
+    "date": "2026-01-30",
+    "month": 1,
+    "day": 30,
+    "title": "Nunca Es Demasiado Tarde",
+    "author": "Séneca",
+    "tags": [
+      "esperanza",
+      "humanidad",
+      "nuevo comienzo"
+    ]
+  },
+  {
+    "date": "2026-01-31",
+    "month": 1,
+    "day": 31,
+    "title": "Filosofía como Medicina del Alma",
+    "author": "Séneca",
+    "tags": [
+      "filosofía",
+      "medicina",
+      "alma",
+      "práctica"
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "month": 2,
+    "day": 1,
+    "title": "Para el Bien de los Demás",
+    "author": "Marco Aurelio",
+    "tags": [
+      "servicio",
+      "bondad",
+      "comunidad",
+      "prójimo"
+    ]
+  },
+  {
+    "date": "2026-02-02",
+    "month": 2,
+    "day": 2,
+    "title": "La Vida Es Larga Si Sabes Usarla",
+    "author": "Séneca",
+    "tags": [
+      "tiempo",
+      "intencionalidad",
+      "brevedad de la vida"
+    ]
+  },
+  {
+    "date": "2026-02-03",
+    "month": 2,
+    "day": 3,
+    "title": "Las Circunstancias No Tienen Sentimientos",
+    "author": "Epicteto",
+    "tags": [
+      "percepción",
+      "juicio",
+      "sufrimiento",
+      "neutralidad"
+    ]
+  },
+  {
+    "date": "2026-02-04",
+    "month": 2,
+    "day": 4,
+    "title": "Sobre Estar Invertebrado",
+    "author": "Séneca",
+    "tags": [
+      "principios",
+      "consistencia",
+      "carácter",
+      "firmeza"
+    ]
+  },
+  {
+    "date": "2026-02-05",
+    "month": 2,
+    "day": 5,
+    "title": "Corta el Nudo",
+    "author": "Epicteto",
+    "tags": [
+      "acción",
+      "decisión",
+      "parálisis",
+      "simplicidad"
+    ]
+  },
+  {
+    "date": "2026-02-06",
+    "month": 2,
+    "day": 6,
+    "title": "El Buen Manejo de la Impresión",
     "author": "Epicteto",
     "tags": [
       "impresiones",
-      "percepción",
-      "Epicteto",
-      "claridad mental",
-      "disciplina",
-      "pausa",
-      "martes",
-      "abril",
-      "juicio",
       "reacción",
-      "discursos",
-      "libertad",
-      "mente",
-      "pensamiento sin sesgos"
+      "pausa",
+      "autocontrol"
     ]
   },
   {
-    "date": "2026-04-06",
-    "month": 4,
-    "day": 6,
-    "title": "Lo que las Cosas Son, No lo que Parecen",
+    "date": "2026-02-07",
+    "month": 2,
+    "day": 7,
+    "title": "El Día a Día",
+    "author": "Séneca",
+    "tags": [
+      "presente",
+      "día a día",
+      "ciclo",
+      "metáfora"
+    ]
+  },
+  {
+    "date": "2026-02-08",
+    "month": 2,
+    "day": 8,
+    "title": "La Comunidad Humana",
     "author": "Marco Aurelio",
     "tags": [
-      "percepción",
-      "juicio",
-      "Marco Aurelio",
-      "pensamiento sin sesgos",
-      "unbiased thought",
-      "lunes",
-      "abril",
-      "libertad interior",
-      "reacción",
-      "claridad",
-      "meditaciones",
-      "autoconocimiento",
-      "emoción",
-      "impresión"
+      "comunidad",
+      "bien común",
+      "conexión",
+      "responsabilidad"
     ]
   },
   {
-    "date": "2026-04-05",
-    "month": 4,
-    "day": 5,
-    "title": "Donde Esté el Bien, Ahí Está el Beneficio",
+    "date": "2026-02-09",
+    "month": 2,
+    "day": 9,
+    "title": "El Filósofo Es Médico",
     "author": "Epicteto",
     "tags": [
-      "bien",
-      "Epicteto",
-      "control",
-      "voluntad",
-      "libertad",
-      "dependencia",
-      "domingo",
-      "abril",
-      "carácter"
+      "filosofía",
+      "crecimiento",
+      "verdad",
+      "incomodidad"
     ]
   },
   {
-    "date": "2026-04-04",
-    "month": 4,
-    "day": 4,
-    "title": "No Dejes que tu Atención se Descuide",
+    "date": "2026-02-10",
+    "month": 2,
+    "day": 10,
+    "title": "La Tiranía de la Lujuria",
+    "author": "Epicteto",
+    "tags": [
+      "disciplina",
+      "acción",
+      "autoexigencia",
+      "razón"
+    ]
+  },
+  {
+    "date": "2026-02-11",
+    "month": 2,
+    "day": 11,
+    "title": "El Héroe de Tu Propia Película",
+    "author": "Epicteto",
+    "tags": [
+      "papel",
+      "circunstancias",
+      "actitud",
+      "excelencia"
+    ]
+  },
+  {
+    "date": "2026-02-12",
+    "month": 2,
+    "day": 12,
+    "title": "Protege Tu Paz Interior",
+    "author": "Séneca",
+    "tags": [
+      "paz interior",
+      "protección",
+      "tranquilidad",
+      "prioridades"
+    ]
+  },
+  {
+    "date": "2026-02-13",
+    "month": 2,
+    "day": 13,
+    "title": "Placer Puede Convertirse en Castigo",
+    "author": "Séneca",
+    "tags": [
+      "moderación",
+      "placer",
+      "exceso",
+      "templanza"
+    ]
+  },
+  {
+    "date": "2026-02-14",
+    "month": 2,
+    "day": 14,
+    "title": "Piensa Antes de Actuar",
+    "author": "Séneca",
+    "tags": [
+      "reflexión",
+      "preparación",
+      "emociones",
+      "independencia"
+    ]
+  },
+  {
+    "date": "2026-02-15",
+    "month": 2,
+    "day": 15,
+    "title": "Solo un Número",
+    "author": "Séneca",
+    "tags": [
+      "tiempo",
+      "edad",
+      "calidad de vida",
+      "sabiduría"
+    ]
+  },
+  {
+    "date": "2026-02-16",
+    "month": 2,
+    "day": 16,
+    "title": "No Hagas Nada a Regañadientes",
     "author": "Marco Aurelio",
     "tags": [
-      "atención",
-      "integridad",
-      "Marco Aurelio",
-      "prosoche",
-      "principios",
-      "honor",
-      "vigilancia",
-      "autoexamen",
-      "sábado",
-      "abril",
-      "decisiones",
+      "actitud",
+      "compromiso",
+      "queja",
+      "integridad"
+    ]
+  },
+  {
+    "date": "2026-02-17",
+    "month": 2,
+    "day": 17,
+    "title": "El Enemigo de la Felicidad",
+    "author": "Séneca",
+    "tags": [
+      "felicidad",
+      "distracción",
+      "sabiduría",
+      "cultivo"
+    ]
+  },
+  {
+    "date": "2026-02-18",
+    "month": 2,
+    "day": 18,
+    "title": "Prepárate para la Mañana",
+    "author": "Séneca",
+    "tags": [
+      "noche",
+      "gratitud",
+      "cierre",
+      "reflexión vespertina"
+    ]
+  },
+  {
+    "date": "2026-02-19",
+    "month": 2,
+    "day": 19,
+    "title": "El Banquete de la Vida",
+    "author": "Epicteto",
+    "tags": [
+      "moderación",
+      "paciencia",
+      "gratitud",
+      "deseo",
+      "banquete"
+    ]
+  },
+  {
+    "date": "2026-02-20",
+    "month": 2,
+    "day": 20,
+    "title": "El Gran Desfile del Deseo",
+    "author": "Epicteto",
+    "tags": [
+      "deseo",
+      "moderación",
+      "gratitud",
+      "impulso",
+      "satisfacción"
+    ]
+  },
+  {
+    "date": "2026-02-21",
+    "month": 2,
+    "day": 21,
+    "title": "No Desees, No Carezcas",
+    "author": "Epicteto",
+    "tags": [
+      "deseo",
+      "libertad",
+      "apego",
+      "sabiduría",
+      "autoconocimiento"
+    ]
+  },
+  {
+    "date": "2026-02-22",
+    "month": 2,
+    "day": 22,
+    "title": "Lo Que Es Mejor No Decir",
+    "author": "Plutarco",
+    "tags": [
+      "silencio",
+      "prudencia",
+      "comunicación",
+      "sabiduría",
+      "autocontrol"
+    ]
+  },
+  {
+    "date": "2026-02-23",
+    "month": 2,
+    "day": 23,
+    "title": "Las Circunstancias No Se Preocupan por Nuestros Sentimientos",
+    "author": "Epicteto",
+    "tags": [
+      "aceptación",
+      "circunstancias",
+      "realismo",
+      "serenidad",
+      "control"
+    ]
+  },
+  {
+    "date": "2026-02-24",
+    "month": 2,
+    "day": 24,
+    "title": "La Verdadera Fuente del Daño",
+    "author": "Epicteto",
+    "tags": [
+      "percepción",
+      "juicio",
+      "sufrimiento",
+      "libertad",
+      "interpretación"
+    ]
+  },
+  {
+    "date": "2026-02-25",
+    "month": 2,
+    "day": 25,
+    "title": "El Humo y el Polvo del Mito",
+    "author": "Marco Aurelio",
+    "tags": [
+      "fama",
+      "humildad",
+      "mortalidad",
+      "perspectiva",
+      "virtud"
+    ]
+  },
+  {
+    "date": "2026-02-26",
+    "month": 2,
+    "day": 26,
+    "title": "A Cada Quien lo Suyo",
+    "author": "Marco Aurelio",
+    "tags": [
+      "resentimiento",
+      "control",
+      "respuesta",
       "carácter",
+      "libertad interior"
+    ]
+  },
+  {
+    "date": "2026-02-27",
+    "month": 2,
+    "day": 27,
+    "title": "Pagar lo que las Cosas Valen",
+    "author": "Epicteto",
+    "tags": [
+      "valor",
+      "decisiones",
+      "prioridades",
+      "esfuerzo",
+      "sabiduría"
+    ]
+  },
+  {
+    "date": "2026-02-28",
+    "month": 2,
+    "day": 28,
+    "title": "Cuando Pierdes el Control",
+    "author": "Séneca",
+    "tags": [
+      "ira",
+      "autocontrol",
+      "emociones",
+      "pausa",
+      "serenidad",
+      "reacción"
+    ]
+  },
+  {
+    "date": "2026-03-01",
+    "month": 3,
+    "day": 1,
+    "title": "Dónde, Quién, Qué y Por Qué",
+    "author": "Epicteto",
+    "tags": [
+      "conciencia",
+      "autoexamen",
+      "impresiones",
+      "atención",
+      "claridad",
+      "marzo"
+    ]
+  },
+  {
+    "date": "2026-03-02",
+    "month": 3,
+    "day": 2,
+    "title": "Autoevaluación Precisa",
+    "author": "Marco Aurelio",
+    "tags": [
+      "autoevaluación",
+      "honestidad",
+      "ego",
+      "conciencia",
+      "claridad",
+      "humildad"
+    ]
+  },
+  {
+    "date": "2026-03-03",
+    "month": 3,
+    "day": 3,
+    "title": "No Son Las Cosas, Son Tus Juicios",
+    "author": "Epicteto",
+    "tags": [
+      "juicios",
+      "percepción",
+      "libertad interior",
+      "Epicteto",
+      "reacción",
+      "interpretación"
+    ]
+  },
+  {
+    "date": "2026-03-04",
+    "month": 3,
+    "day": 4,
+    "title": "La Conciencia Es Libertad",
+    "author": "Epicteto",
+    "tags": [
+      "conciencia",
+      "autoconocimiento",
+      "libertad",
+      "Epicteto",
+      "honestidad",
+      "vulnerabilidad"
+    ]
+  },
+  {
+    "date": "2026-03-05",
+    "month": 3,
+    "day": 5,
+    "title": "Recorta lo que Cuesta Demasiado",
+    "author": "Séneca",
+    "tags": [
+      "tiempo",
+      "prioridades",
+      "enfoque",
+      "Séneca",
+      "simplicidad",
+      "auditoría personal"
+    ]
+  },
+  {
+    "date": "2026-03-06",
+    "month": 3,
+    "day": 6,
+    "title": "No te Cuentes Historias",
+    "author": "Epicteto",
+    "tags": [
+      "ego",
+      "narrativa personal",
+      "humildad",
+      "Epicteto",
+      "autoconocimiento",
+      "autenticidad"
+    ]
+  },
+  {
+    "date": "2026-03-07",
+    "month": 3,
+    "day": 7,
+    "title": "No Esperes la Perfección",
+    "author": "Marco Aurelio",
+    "tags": [
+      "perfección",
+      "progreso",
+      "paciencia",
+      "Marco Aurelio",
+      "expectativas",
+      "acción"
+    ]
+  },
+  {
+    "date": "2026-03-08",
+    "month": 3,
+    "day": 8,
+    "title": "No Entregues Tu Libertad Sin Darte Cuenta",
+    "author": "Epicteto",
+    "tags": [
+      "libertad",
+      "mente",
+      "control",
+      "Epicteto",
+      "paz interior",
+      "reactividad"
+    ]
+  },
+  {
+    "date": "2026-03-09",
+    "month": 3,
+    "day": 9,
+    "title": "Encuentra al Maestro Interior",
+    "author": "Epicteto",
+    "tags": [
+      "acción",
+      "autoexigencia",
+      "procrastinación",
+      "Epicteto",
+      "maestro interior",
+      "disciplina"
+    ]
+  },
+  {
+    "date": "2026-03-10",
+    "month": 3,
+    "day": 10,
+    "title": "Vuelve a lo Esencial",
+    "author": "Marco Aurelio",
+    "tags": [
+      "esencialismo",
+      "enfoque",
+      "simplicidad",
+      "Marco Aurelio",
+      "tranquilidad",
+      "prioridades"
+    ]
+  },
+  {
+    "date": "2026-03-11",
+    "month": 3,
+    "day": 11,
+    "title": "Si Pudieras Ver Sus Corazones",
+    "author": "Marco Aurelio",
+    "tags": [
+      "empatía",
+      "autoexamen",
+      "ira",
+      "Marco Aurelio",
+      "honestidad",
+      "juicio"
+    ]
+  },
+  {
+    "date": "2026-03-12",
+    "month": 3,
+    "day": 12,
+    "title": "Reconoce Tu Poder de Elección",
+    "author": "Epicteto",
+    "tags": [
+      "elección",
+      "percepción",
+      "opiniones",
+      "Epicteto",
+      "libertad",
+      "juicio",
+      "Sócrates"
+    ]
+  },
+  {
+    "date": "2026-03-13",
+    "month": 3,
+    "day": 13,
+    "title": "La Vista Desde Arriba",
+    "author": "Marco Aurelio",
+    "tags": [
+      "perspectiva",
+      "conciencia",
+      "cosmos",
+      "Marco Aurelio",
+      "vista desde arriba",
+      "recalibración"
+    ]
+  },
+  {
+    "date": "2026-03-14",
+    "month": 3,
+    "day": 14,
+    "title": "Las Señales del Verdadero Progreso",
+    "author": "Epicteto",
+    "tags": [
+      "progreso",
+      "autoconciencia",
+      "responsabilidad",
+      "Epicteto",
+      "queja",
+      "culpa",
+      "filosofía práctica"
+    ]
+  },
+  {
+    "date": "2026-03-15",
+    "month": 3,
+    "day": 15,
+    "title": "Los Idus Llegan Para Todos",
+    "author": "Marco Aurelio",
+    "tags": [
+      "mortalidad",
+      "presente",
+      "memento mori",
+      "Marco Aurelio",
+      "Idus de Marzo",
+      "tiempo",
+      "poder",
+      "historia"
+    ]
+  },
+  {
+    "date": "2026-03-16",
+    "month": 3,
+    "day": 16,
+    "title": "Nunca Actúes por Inercia",
+    "author": "Epicteto",
+    "tags": [
+      "acción",
+      "hábito",
+      "intención",
+      "Epicteto",
+      "propósito",
+      "conciencia",
+      "disciplina",
+      "autoexamen"
+    ]
+  },
+  {
+    "date": "2026-03-17",
+    "month": 3,
+    "day": 17,
+    "title": "El Que Está en Todas Partes No Está en Ninguna",
+    "author": "Séneca",
+    "tags": [
+      "presencia",
+      "atención",
+      "foco",
+      "Séneca",
+      "dispersión",
+      "conciencia",
+      "vida interior",
+      "simplicidad"
+    ]
+  },
+  {
+    "date": "2026-03-18",
+    "month": 3,
+    "day": 18,
+    "title": "El Carácter No Se Presta",
+    "author": "Marco Aurelio",
+    "tags": [
+      "carácter",
+      "virtud",
+      "urgencia",
+      "Marco Aurelio",
+      "integridad",
+      "práctica diaria",
+      "aplazar",
+      "decisión"
+    ]
+  },
+  {
+    "date": "2026-03-19",
+    "month": 3,
+    "day": 19,
+    "title": "Tu Mente Toma la Forma de lo que Piensa",
+    "author": "Marco Aurelio",
+    "tags": [
+      "pensamientos",
+      "mente",
+      "Marco Aurelio",
+      "carácter",
+      "hábitos mentales",
+      "impresiones",
+      "autoconocimiento",
+      "claridad",
+      "marzo"
+    ]
+  },
+  {
+    "date": "2026-03-20",
+    "month": 3,
+    "day": 20,
+    "title": "Vivir de Acuerdo con la Naturaleza",
+    "author": "Marco Aurelio",
+    "tags": [
+      "naturaleza",
+      "equinoccio",
+      "alineación",
+      "Marco Aurelio",
+      "renovación",
+      "ciclos",
+      "autenticidad",
+      "vivir según la naturaleza"
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "month": 3,
+    "day": 21,
+    "title": "Mira Hacia Adentro",
+    "author": "Marco Aurelio",
+    "tags": [
+      "introspección",
+      "virtud",
+      "bien interior",
+      "Marco Aurelio",
+      "fuente interior",
+      "razón",
+      "carácter",
+      "autoconocimiento"
+    ]
+  },
+  {
+    "date": "2026-03-22",
+    "month": 3,
+    "day": 22,
+    "title": "El Tiempo Es Lo Único Nuestro",
+    "author": "Séneca",
+    "tags": [
+      "tiempo",
+      "presente",
+      "Séneca",
+      "prioridades",
+      "intención",
+      "mortalidad",
+      "consciencia",
+      "carpe diem"
+    ]
+  },
+  {
+    "date": "2026-03-23",
+    "month": 3,
+    "day": 23,
+    "title": "No Persigas lo que Aún No Tienes",
+    "author": "Séneca",
+    "tags": [
+      "expectativa",
+      "presente",
+      "Séneca",
+      "anhelo",
+      "procrastinación vital",
+      "bienestar",
+      "aquí y ahora",
+      "lunes"
+    ]
+  },
+  {
+    "date": "2026-03-24",
+    "month": 3,
+    "day": 24,
+    "title": "El Retiro Que Siempre Está Disponible",
+    "author": "Marco Aurelio",
+    "tags": [
+      "retiro interior",
+      "calma",
+      "Marco Aurelio",
+      "silencio",
+      "mente",
+      "percepción",
+      "serenidad",
+      "martes"
+    ]
+  },
+  {
+    "date": "2026-03-25",
+    "month": 3,
+    "day": 25,
+    "title": "La Filosofía No Es Palabras, Es Acciones",
+    "author": "Séneca",
+    "tags": [
+      "filosofía práctica",
+      "acción",
+      "humanidad",
+      "Séneca",
+      "comunidad",
+      "virtud",
+      "palabras vs hechos",
+      "miércoles"
+    ]
+  },
+  {
+    "date": "2026-03-26",
+    "month": 3,
+    "day": 26,
+    "title": "El Cuerpo No Manda, La Mente Elige",
+    "author": "Marco Aurelio",
+    "tags": [
+      "mente",
+      "cuerpo",
+      "juicio",
+      "Marco Aurelio",
+      "percepción",
+      "sufrimiento",
+      "libertad interior",
+      "jueves",
+      "dolor",
+      "control"
+    ]
+  },
+  {
+    "date": "2026-03-27",
+    "month": 3,
+    "day": 27,
+    "title": "El Refugio Que Siempre Tienes",
+    "author": "Marco Aurelio",
+    "tags": [
+      "mente",
+      "paz interior",
+      "Marco Aurelio",
+      "retiro",
+      "silencio",
+      "consciencia",
+      "viernes",
+      "descanso",
+      "autoconocimiento",
+      "hegemonikón"
+    ]
+  },
+  {
+    "date": "2026-03-28",
+    "month": 3,
+    "day": 28,
+    "title": "El Obstáculo Es el Camino",
+    "author": "Marco Aurelio",
+    "tags": [
+      "obstáculos",
+      "resiliencia",
+      "Marco Aurelio",
+      "adversidad",
+      "acción",
+      "transformación",
+      "sábado",
+      "perspectiva",
+      "aprendizaje",
+      "The Obstacle Is the Way"
+    ]
+  },
+  {
+    "date": "2026-03-29",
+    "month": 3,
+    "day": 29,
+    "title": "Empieza Hoy",
+    "author": "Séneca",
+    "tags": [
+      "tiempo",
+      "acción",
+      "Séneca",
+      "presencia",
+      "comenzar",
+      "domingo",
+      "procrastinación",
+      "vivir",
+      "carpe diem",
+      "disciplina de la acción"
+    ]
+  },
+  {
+    "date": "2026-03-30",
+    "month": 3,
+    "day": 30,
+    "title": "Señales de Progreso",
+    "author": "Epicteto",
+    "tags": [
+      "progreso",
+      "aprendizaje",
+      "Epicteto",
+      "humildad",
+      "autoconocimiento",
+      "opiniones",
+      "prosoche",
+      "reflexión",
+      "crecimiento",
+      "fin de mes"
+    ]
+  },
+  {
+    "date": "2026-03-31",
+    "month": 3,
+    "day": 31,
+    "title": "El Color de Tus Pensamientos",
+    "author": "Marco Aurelio",
+    "tags": [
+      "pensamientos",
+      "carácter",
+      "Marco Aurelio",
+      "mente",
+      "identidad",
+      "hábitos mentales",
+      "voluntad",
       "meditaciones",
-      "Unbiased Thought"
+      "introspección",
+      "fin de mes"
+    ]
+  },
+  {
+    "date": "2026-04-01",
+    "month": 4,
+    "day": 1,
+    "title": "No Pospongas Nada",
+    "author": "Séneca",
+    "tags": [
+      "tiempo",
+      "postergación",
+      "Séneca",
+      "urgencia",
+      "presente",
+      "cartas a Lucilio",
+      "memento mori",
+      "nuevos comienzos",
+      "segundo trimestre",
+      "acción",
+      "claridad",
+      "abril"
+    ]
+  },
+  {
+    "date": "2026-04-02",
+    "month": 4,
+    "day": 2,
+    "title": "Una Buena Vida en Pocas Palabras",
+    "author": "Marco Aurelio",
+    "tags": [
+      "vida buena",
+      "Marco Aurelio",
+      "razón",
+      "sociabilidad",
+      "aceptación",
+      "claridad",
+      "justicia",
+      "abril",
+      "esencial"
     ]
   },
   {
@@ -111,1339 +1340,138 @@
     ]
   },
   {
-    "date": "2026-04-02",
+    "date": "2026-04-04",
     "month": 4,
-    "day": 2,
-    "title": "Una Buena Vida en Pocas Palabras",
+    "day": 4,
+    "title": "No Dejes que tu Atención se Descuide",
     "author": "Marco Aurelio",
     "tags": [
-      "vida buena",
-      "Marco Aurelio",
-      "razón",
-      "sociabilidad",
-      "aceptación",
-      "claridad",
-      "justicia",
-      "abril",
-      "esencial"
-    ]
-  },
-  {
-    "date": "2026-04-01",
-    "month": 4,
-    "day": 1,
-    "title": "No Pospongas Nada",
-    "author": "Séneca",
-    "tags": [
-      "tiempo",
-      "postergación",
-      "Séneca",
-      "urgencia",
-      "presente",
-      "cartas a Lucilio",
-      "memento mori",
-      "nuevos comienzos",
-      "segundo trimestre",
-      "acción",
-      "claridad",
-      "abril"
-    ]
-  },
-  {
-    "date": "2026-03-31",
-    "month": 3,
-    "day": 31,
-    "title": "La Filosofía Como Medicina",
-    "author": "Epicteto",
-    "tags": [
-      "filosofía",
-      "medicina",
-      "Epicteto",
-      "diagnóstico",
-      "honestidad",
-      "autoconocimiento",
-      "fin de mes",
-      "primer trimestre",
-      "crecimiento",
-      "disciplina de la voluntad",
-      "marzo"
-    ]
-  },
-  {
-    "date": "2026-03-31",
-    "month": 3,
-    "day": 31,
-    "title": "El Color de Tus Pensamientos",
-    "author": "Marco Aurelio",
-    "tags": [
-      "pensamientos",
-      "carácter",
-      "Marco Aurelio",
-      "mente",
-      "identidad",
-      "hábitos mentales",
-      "voluntad",
-      "meditaciones",
-      "introspección",
-      "fin de mes"
-    ]
-  },
-  {
-    "date": "2026-03-30",
-    "month": 3,
-    "day": 30,
-    "title": "Señales de Progreso",
-    "author": "Epicteto",
-    "tags": [
-      "progreso",
-      "aprendizaje",
-      "Epicteto",
-      "humildad",
-      "autoconocimiento",
-      "opiniones",
-      "prosoche",
-      "reflexión",
-      "crecimiento",
-      "fin de mes"
-    ]
-  },
-  {
-    "date": "2026-03-29",
-    "month": 3,
-    "day": 29,
-    "title": "Empieza Hoy",
-    "author": "Séneca",
-    "tags": [
-      "tiempo",
-      "acción",
-      "Séneca",
-      "presencia",
-      "comenzar",
-      "domingo",
-      "procrastinación",
-      "vivir",
-      "carpe diem",
-      "disciplina de la acción"
-    ]
-  },
-  {
-    "date": "2026-03-28",
-    "month": 3,
-    "day": 28,
-    "title": "El Obstáculo Es el Camino",
-    "author": "Marco Aurelio",
-    "tags": [
-      "obstáculos",
-      "resiliencia",
-      "Marco Aurelio",
-      "adversidad",
-      "acción",
-      "transformación",
-      "sábado",
-      "perspectiva",
-      "aprendizaje",
-      "The Obstacle Is the Way"
-    ]
-  },
-  {
-    "date": "2026-03-27",
-    "month": 3,
-    "day": 27,
-    "title": "El Refugio Que Siempre Tienes",
-    "author": "Marco Aurelio",
-    "tags": [
-      "mente",
-      "paz interior",
-      "Marco Aurelio",
-      "retiro",
-      "silencio",
-      "consciencia",
-      "viernes",
-      "descanso",
-      "autoconocimiento",
-      "hegemonikón"
-    ]
-  },
-  {
-    "date": "2026-03-26",
-    "month": 3,
-    "day": 26,
-    "title": "El Cuerpo No Manda, La Mente Elige",
-    "author": "Marco Aurelio",
-    "tags": [
-      "mente",
-      "cuerpo",
-      "juicio",
-      "Marco Aurelio",
-      "percepción",
-      "sufrimiento",
-      "libertad interior",
-      "jueves",
-      "dolor",
-      "control"
-    ]
-  },
-  {
-    "date": "2026-03-25",
-    "month": 3,
-    "day": 25,
-    "title": "La Filosofía No Es Palabras, Es Acciones",
-    "author": "Séneca",
-    "tags": [
-      "filosofía práctica",
-      "acción",
-      "humanidad",
-      "Séneca",
-      "comunidad",
-      "virtud",
-      "palabras vs hechos",
-      "miércoles"
-    ]
-  },
-  {
-    "date": "2026-03-24",
-    "month": 3,
-    "day": 24,
-    "title": "El Retiro Que Siempre Está Disponible",
-    "author": "Marco Aurelio",
-    "tags": [
-      "retiro interior",
-      "calma",
-      "Marco Aurelio",
-      "silencio",
-      "mente",
-      "percepción",
-      "serenidad",
-      "martes"
-    ]
-  },
-  {
-    "date": "2026-03-23",
-    "month": 3,
-    "day": 23,
-    "title": "No Persigas lo que Aún No Tienes",
-    "author": "Séneca",
-    "tags": [
-      "expectativa",
-      "presente",
-      "Séneca",
-      "anhelo",
-      "procrastinación vital",
-      "bienestar",
-      "aquí y ahora",
-      "lunes"
-    ]
-  },
-  {
-    "date": "2026-03-22",
-    "month": 3,
-    "day": 22,
-    "title": "El Tiempo Es Lo Único Nuestro",
-    "author": "Séneca",
-    "tags": [
-      "tiempo",
-      "presente",
-      "Séneca",
-      "prioridades",
-      "intención",
-      "mortalidad",
-      "consciencia",
-      "carpe diem"
-    ]
-  },
-  {
-    "date": "2026-03-21",
-    "month": 3,
-    "day": 21,
-    "title": "Mira Hacia Adentro",
-    "author": "Marco Aurelio",
-    "tags": [
-      "introspección",
-      "virtud",
-      "bien interior",
-      "Marco Aurelio",
-      "fuente interior",
-      "razón",
-      "carácter",
-      "autoconocimiento"
-    ]
-  },
-  {
-    "date": "2026-03-20",
-    "month": 3,
-    "day": 20,
-    "title": "Vivir de Acuerdo con la Naturaleza",
-    "author": "Marco Aurelio",
-    "tags": [
-      "naturaleza",
-      "equinoccio",
-      "alineación",
-      "Marco Aurelio",
-      "renovación",
-      "ciclos",
-      "autenticidad",
-      "vivir según la naturaleza"
-    ]
-  },
-  {
-    "date": "2026-03-19",
-    "month": 3,
-    "day": 19,
-    "title": "Tu Mente Toma la Forma de lo que Piensa",
-    "author": "Marco Aurelio",
-    "tags": [
-      "pensamientos",
-      "mente",
-      "Marco Aurelio",
-      "carácter",
-      "hábitos mentales",
-      "impresiones",
-      "autoconocimiento",
-      "claridad",
-      "marzo"
-    ]
-  },
-  {
-    "date": "2026-03-18",
-    "month": 3,
-    "day": 18,
-    "title": "El Carácter No Se Presta",
-    "author": "Marco Aurelio",
-    "tags": [
-      "carácter",
-      "virtud",
-      "urgencia",
-      "Marco Aurelio",
+      "atención",
       "integridad",
-      "práctica diaria",
-      "aplazar",
-      "decisión"
-    ]
-  },
-  {
-    "date": "2026-03-17",
-    "month": 3,
-    "day": 17,
-    "title": "El Que Está en Todas Partes No Está en Ninguna",
-    "author": "Séneca",
-    "tags": [
-      "presencia",
-      "atención",
-      "foco",
-      "Séneca",
-      "dispersión",
-      "conciencia",
-      "vida interior",
-      "simplicidad"
-    ]
-  },
-  {
-    "date": "2026-03-16",
-    "month": 3,
-    "day": 16,
-    "title": "Nunca Actúes por Inercia",
-    "author": "Epicteto",
-    "tags": [
-      "acción",
-      "hábito",
-      "intención",
-      "Epicteto",
-      "propósito",
-      "conciencia",
-      "disciplina",
-      "autoexamen"
-    ]
-  },
-  {
-    "date": "2026-03-15",
-    "month": 3,
-    "day": 15,
-    "title": "Los Idus Llegan Para Todos",
-    "author": "Marco Aurelio",
-    "tags": [
-      "mortalidad",
-      "presente",
-      "memento mori",
       "Marco Aurelio",
-      "Idus de Marzo",
-      "tiempo",
-      "poder",
-      "historia"
-    ]
-  },
-  {
-    "date": "2026-03-14",
-    "month": 3,
-    "day": 14,
-    "title": "Las Señales del Verdadero Progreso",
-    "author": "Epicteto",
-    "tags": [
-      "progreso",
-      "autoconciencia",
-      "responsabilidad",
-      "Epicteto",
-      "queja",
-      "culpa",
-      "filosofía práctica"
-    ]
-  },
-  {
-    "date": "2026-03-13",
-    "month": 3,
-    "day": 13,
-    "title": "La Vista Desde Arriba",
-    "author": "Marco Aurelio",
-    "tags": [
-      "perspectiva",
-      "conciencia",
-      "cosmos",
-      "Marco Aurelio",
-      "vista desde arriba",
-      "recalibración"
-    ]
-  },
-  {
-    "date": "2026-03-12",
-    "month": 3,
-    "day": 12,
-    "title": "Reconoce Tu Poder de Elección",
-    "author": "Epicteto",
-    "tags": [
-      "elección",
-      "percepción",
-      "opiniones",
-      "Epicteto",
-      "libertad",
-      "juicio",
-      "Sócrates"
-    ]
-  },
-  {
-    "date": "2026-03-11",
-    "month": 3,
-    "day": 11,
-    "title": "Si Pudieras Ver Sus Corazones",
-    "author": "Marco Aurelio",
-    "tags": [
-      "empatía",
-      "autoexamen",
-      "ira",
-      "Marco Aurelio",
-      "honestidad",
-      "juicio"
-    ]
-  },
-  {
-    "date": "2026-03-10",
-    "month": 3,
-    "day": 10,
-    "title": "Vuelve a lo Esencial",
-    "author": "Marco Aurelio",
-    "tags": [
-      "esencialismo",
-      "enfoque",
-      "simplicidad",
-      "Marco Aurelio",
-      "tranquilidad",
-      "prioridades"
-    ]
-  },
-  {
-    "date": "2026-03-09",
-    "month": 3,
-    "day": 9,
-    "title": "Encuentra al Maestro Interior",
-    "author": "Epicteto",
-    "tags": [
-      "acción",
-      "autoexigencia",
-      "procrastinación",
-      "Epicteto",
-      "maestro interior",
-      "disciplina"
-    ]
-  },
-  {
-    "date": "2026-03-08",
-    "month": 3,
-    "day": 8,
-    "title": "No Entregues Tu Libertad Sin Darte Cuenta",
-    "author": "Epicteto",
-    "tags": [
-      "libertad",
-      "mente",
-      "control",
-      "Epicteto",
-      "paz interior",
-      "reactividad"
-    ]
-  },
-  {
-    "date": "2026-03-07",
-    "month": 3,
-    "day": 7,
-    "title": "No Esperes la Perfección",
-    "author": "Marco Aurelio",
-    "tags": [
-      "perfección",
-      "progreso",
-      "paciencia",
-      "Marco Aurelio",
-      "expectativas",
-      "acción"
-    ]
-  },
-  {
-    "date": "2026-03-06",
-    "month": 3,
-    "day": 6,
-    "title": "No te Cuentes Historias",
-    "author": "Epicteto",
-    "tags": [
-      "ego",
-      "narrativa personal",
-      "humildad",
-      "Epicteto",
-      "autoconocimiento",
-      "autenticidad"
-    ]
-  },
-  {
-    "date": "2026-03-05",
-    "month": 3,
-    "day": 5,
-    "title": "Recorta lo que Cuesta Demasiado",
-    "author": "Séneca",
-    "tags": [
-      "tiempo",
-      "prioridades",
-      "enfoque",
-      "Séneca",
-      "simplicidad",
-      "auditoría personal"
-    ]
-  },
-  {
-    "date": "2026-03-04",
-    "month": 3,
-    "day": 4,
-    "title": "La Conciencia Es Libertad",
-    "author": "Epicteto",
-    "tags": [
-      "conciencia",
-      "autoconocimiento",
-      "libertad",
-      "Epicteto",
-      "honestidad",
-      "vulnerabilidad"
-    ]
-  },
-  {
-    "date": "2026-03-03",
-    "month": 3,
-    "day": 3,
-    "title": "No Son Las Cosas, Son Tus Juicios",
-    "author": "Epicteto",
-    "tags": [
-      "juicios",
-      "percepción",
-      "libertad interior",
-      "Epicteto",
-      "reacción",
-      "interpretación"
-    ]
-  },
-  {
-    "date": "2026-03-02",
-    "month": 3,
-    "day": 2,
-    "title": "Autoevaluación Precisa",
-    "author": "Marco Aurelio",
-    "tags": [
-      "autoevaluación",
-      "honestidad",
-      "ego",
-      "conciencia",
-      "claridad",
-      "humildad"
-    ]
-  },
-  {
-    "date": "2026-03-01",
-    "month": 3,
-    "day": 1,
-    "title": "Dónde, Quién, Qué y Por Qué",
-    "author": "Epicteto",
-    "tags": [
-      "conciencia",
-      "autoexamen",
-      "impresiones",
-      "atención",
-      "claridad",
-      "marzo"
-    ]
-  },
-  {
-    "date": "2026-02-28",
-    "month": 2,
-    "day": 28,
-    "title": "Cuando Pierdes el Control",
-    "author": "Séneca",
-    "tags": [
-      "ira",
-      "autocontrol",
-      "emociones",
-      "pausa",
-      "serenidad",
-      "reacción"
-    ]
-  },
-  {
-    "date": "2026-02-27",
-    "month": 2,
-    "day": 27,
-    "title": "Pagar lo que las Cosas Valen",
-    "author": "Epicteto",
-    "tags": [
-      "valor",
-      "decisiones",
-      "prioridades",
-      "esfuerzo",
-      "sabiduría"
-    ]
-  },
-  {
-    "date": "2026-02-26",
-    "month": 2,
-    "day": 26,
-    "title": "A Cada Quien lo Suyo",
-    "author": "Marco Aurelio",
-    "tags": [
-      "resentimiento",
-      "control",
-      "respuesta",
-      "carácter",
-      "libertad interior"
-    ]
-  },
-  {
-    "date": "2026-02-25",
-    "month": 2,
-    "day": 25,
-    "title": "El Humo y el Polvo del Mito",
-    "author": "Marco Aurelio",
-    "tags": [
-      "fama",
-      "humildad",
-      "mortalidad",
-      "perspectiva",
-      "virtud"
-    ]
-  },
-  {
-    "date": "2026-02-24",
-    "month": 2,
-    "day": 24,
-    "title": "La Verdadera Fuente del Daño",
-    "author": "Epicteto",
-    "tags": [
-      "percepción",
-      "juicio",
-      "sufrimiento",
-      "libertad",
-      "interpretación"
-    ]
-  },
-  {
-    "date": "2026-02-23",
-    "month": 2,
-    "day": 23,
-    "title": "Las Circunstancias No Se Preocupan por Nuestros Sentimientos",
-    "author": "Epicteto",
-    "tags": [
-      "aceptación",
-      "circunstancias",
-      "realismo",
-      "serenidad",
-      "control"
-    ]
-  },
-  {
-    "date": "2026-02-22",
-    "month": 2,
-    "day": 22,
-    "title": "Lo Que Es Mejor No Decir",
-    "author": "Plutarco",
-    "tags": [
-      "silencio",
-      "prudencia",
-      "comunicación",
-      "sabiduría",
-      "autocontrol"
-    ]
-  },
-  {
-    "date": "2026-02-21",
-    "month": 2,
-    "day": 21,
-    "title": "No Desees, No Carezcas",
-    "author": "Epicteto",
-    "tags": [
-      "deseo",
-      "libertad",
-      "apego",
-      "sabiduría",
-      "autoconocimiento"
-    ]
-  },
-  {
-    "date": "2026-02-20",
-    "month": 2,
-    "day": 20,
-    "title": "El Gran Desfile del Deseo",
-    "author": "Epicteto",
-    "tags": [
-      "deseo",
-      "moderación",
-      "gratitud",
-      "impulso",
-      "satisfacción"
-    ]
-  },
-  {
-    "date": "2026-02-19",
-    "month": 2,
-    "day": 19,
-    "title": "El Banquete de la Vida",
-    "author": "Epicteto",
-    "tags": [
-      "moderación",
-      "paciencia",
-      "gratitud",
-      "deseo",
-      "banquete"
-    ]
-  },
-  {
-    "date": "2026-02-18",
-    "month": 2,
-    "day": 18,
-    "title": "Prepárate para la Mañana",
-    "author": "Séneca",
-    "tags": [
-      "noche",
-      "gratitud",
-      "cierre",
-      "reflexión vespertina"
-    ]
-  },
-  {
-    "date": "2026-02-17",
-    "month": 2,
-    "day": 17,
-    "title": "El Enemigo de la Felicidad",
-    "author": "Séneca",
-    "tags": [
-      "felicidad",
-      "distracción",
-      "sabiduría",
-      "cultivo"
-    ]
-  },
-  {
-    "date": "2026-02-16",
-    "month": 2,
-    "day": 16,
-    "title": "No Hagas Nada a Regañadientes",
-    "author": "Marco Aurelio",
-    "tags": [
-      "actitud",
-      "compromiso",
-      "queja",
-      "integridad"
-    ]
-  },
-  {
-    "date": "2026-02-15",
-    "month": 2,
-    "day": 15,
-    "title": "Solo un Número",
-    "author": "Séneca",
-    "tags": [
-      "tiempo",
-      "edad",
-      "calidad de vida",
-      "sabiduría"
-    ]
-  },
-  {
-    "date": "2026-02-14",
-    "month": 2,
-    "day": 14,
-    "title": "Piensa Antes de Actuar",
-    "author": "Séneca",
-    "tags": [
-      "reflexión",
-      "preparación",
-      "emociones",
-      "independencia"
-    ]
-  },
-  {
-    "date": "2026-02-13",
-    "month": 2,
-    "day": 13,
-    "title": "Placer Puede Convertirse en Castigo",
-    "author": "Séneca",
-    "tags": [
-      "moderación",
-      "placer",
-      "exceso",
-      "templanza"
-    ]
-  },
-  {
-    "date": "2026-02-12",
-    "month": 2,
-    "day": 12,
-    "title": "Protege Tu Paz Interior",
-    "author": "Séneca",
-    "tags": [
-      "paz interior",
-      "protección",
-      "tranquilidad",
-      "prioridades"
-    ]
-  },
-  {
-    "date": "2026-02-11",
-    "month": 2,
-    "day": 11,
-    "title": "El Héroe de Tu Propia Película",
-    "author": "Epicteto",
-    "tags": [
-      "papel",
-      "circunstancias",
-      "actitud",
-      "excelencia"
-    ]
-  },
-  {
-    "date": "2026-02-10",
-    "month": 2,
-    "day": 10,
-    "title": "La Tiranía de la Lujuria",
-    "author": "Epicteto",
-    "tags": [
-      "disciplina",
-      "acción",
-      "autoexigencia",
-      "razón"
-    ]
-  },
-  {
-    "date": "2026-02-09",
-    "month": 2,
-    "day": 9,
-    "title": "El Filósofo Es Médico",
-    "author": "Epicteto",
-    "tags": [
-      "filosofía",
-      "crecimiento",
-      "verdad",
-      "incomodidad"
-    ]
-  },
-  {
-    "date": "2026-02-08",
-    "month": 2,
-    "day": 8,
-    "title": "La Comunidad Humana",
-    "author": "Marco Aurelio",
-    "tags": [
-      "comunidad",
-      "bien común",
-      "conexión",
-      "responsabilidad"
-    ]
-  },
-  {
-    "date": "2026-02-07",
-    "month": 2,
-    "day": 7,
-    "title": "El Día a Día",
-    "author": "Séneca",
-    "tags": [
-      "presente",
-      "día a día",
-      "ciclo",
-      "metáfora"
-    ]
-  },
-  {
-    "date": "2026-02-06",
-    "month": 2,
-    "day": 6,
-    "title": "El Buen Manejo de la Impresión",
-    "author": "Epicteto",
-    "tags": [
-      "impresiones",
-      "reacción",
-      "pausa",
-      "autocontrol"
-    ]
-  },
-  {
-    "date": "2026-02-05",
-    "month": 2,
-    "day": 5,
-    "title": "Corta el Nudo",
-    "author": "Epicteto",
-    "tags": [
-      "acción",
-      "decisión",
-      "parálisis",
-      "simplicidad"
-    ]
-  },
-  {
-    "date": "2026-02-04",
-    "month": 2,
-    "day": 4,
-    "title": "Sobre Estar Invertebrado",
-    "author": "Séneca",
-    "tags": [
+      "prosoche",
       "principios",
-      "consistencia",
+      "honor",
+      "vigilancia",
+      "autoexamen",
+      "sábado",
+      "abril",
+      "decisiones",
       "carácter",
-      "firmeza"
+      "meditaciones",
+      "Unbiased Thought"
     ]
   },
   {
-    "date": "2026-02-03",
-    "month": 2,
-    "day": 3,
-    "title": "Las Circunstancias No Tienen Sentimientos",
+    "date": "2026-04-05",
+    "month": 4,
+    "day": 5,
+    "title": "Donde Esté el Bien, Ahí Está el Beneficio",
     "author": "Epicteto",
     "tags": [
-      "percepción",
-      "juicio",
-      "sufrimiento",
-      "neutralidad"
-    ]
-  },
-  {
-    "date": "2026-02-02",
-    "month": 2,
-    "day": 2,
-    "title": "La Vida Es Larga Si Sabes Usarla",
-    "author": "Séneca",
-    "tags": [
-      "tiempo",
-      "intencionalidad",
-      "brevedad de la vida"
-    ]
-  },
-  {
-    "date": "2026-02-01",
-    "month": 2,
-    "day": 1,
-    "title": "Para el Bien de los Demás",
-    "author": "Marco Aurelio",
-    "tags": [
-      "servicio",
-      "bondad",
-      "comunidad",
-      "prójimo"
-    ]
-  },
-  {
-    "date": "2026-01-31",
-    "month": 1,
-    "day": 31,
-    "title": "Filosofía como Medicina del Alma",
-    "author": "Séneca",
-    "tags": [
-      "filosofía",
-      "medicina",
-      "alma",
-      "práctica"
-    ]
-  },
-  {
-    "date": "2026-01-30",
-    "month": 1,
-    "day": 30,
-    "title": "Nunca Es Demasiado Tarde",
-    "author": "Séneca",
-    "tags": [
-      "esperanza",
-      "humanidad",
-      "nuevo comienzo"
-    ]
-  },
-  {
-    "date": "2026-01-29",
-    "month": 1,
-    "day": 29,
-    "title": "Mantén la Calma, Es Solo el Comienzo",
-    "author": "Marco Aurelio",
-    "tags": [
-      "calma",
-      "perspectiva",
-      "agitación",
-      "juicio"
-    ]
-  },
-  {
-    "date": "2026-01-28",
-    "month": 1,
-    "day": 28,
-    "title": "Vigilando la Hora",
-    "author": "Marco Aurelio",
-    "tags": [
-      "muerte",
-      "memento mori",
-      "urgencia",
-      "bondad"
-    ]
-  },
-  {
-    "date": "2026-01-27",
-    "month": 1,
-    "day": 27,
-    "title": "Los Tres Pilares del Estoicismo",
-    "author": "Epicteto",
-    "tags": [
-      "disciplina",
-      "percepción",
-      "acción",
-      "deseo"
-    ]
-  },
-  {
-    "date": "2026-01-26",
-    "month": 1,
-    "day": 26,
-    "title": "El Poder de un Mantra",
-    "author": "Marco Aurelio",
-    "tags": [
-      "preparación",
-      "mantra",
-      "mañana",
-      "realismo"
-    ]
-  },
-  {
-    "date": "2026-01-25",
-    "month": 1,
-    "day": 25,
-    "title": "La Única Prisión",
-    "author": "Séneca",
-    "tags": [
-      "miedo",
-      "libertad",
-      "valor",
-      "prisión"
-    ]
-  },
-  {
-    "date": "2026-01-24",
-    "month": 1,
-    "day": 24,
-    "title": "Empuja Hacia Adelante",
-    "author": "Marco Aurelio",
-    "tags": [
-      "obstáculos",
-      "resiliencia",
-      "adversidad",
-      "oportunidad"
-    ]
-  },
-  {
-    "date": "2026-01-23",
-    "month": 1,
-    "day": 23,
-    "title": "La Verdad Sobre el Dinero",
-    "author": "Marco Aurelio",
-    "tags": [
-      "dinero",
-      "materialismo",
-      "impermanencia"
-    ]
-  },
-  {
-    "date": "2026-01-22",
-    "month": 1,
-    "day": 22,
-    "title": "El Día en la Vida de un Estoico",
-    "author": "Marco Aurelio",
-    "tags": [
-      "gratitud",
-      "mañana",
-      "perspectiva",
-      "práctica"
-    ]
-  },
-  {
-    "date": "2026-01-21",
-    "month": 1,
-    "day": 21,
-    "title": "Un Día de la Historia de la Eternidad",
-    "author": "Séneca",
-    "tags": [
-      "tiempo",
-      "brevedad de la vida",
-      "intencionalidad"
-    ]
-  },
-  {
-    "date": "2026-01-20",
-    "month": 1,
-    "day": 20,
-    "title": "Una Vida Regia",
-    "author": "Epicteto",
-    "tags": [
-      "aprendizaje",
-      "humildad",
-      "mente de principiante"
-    ]
-  },
-  {
-    "date": "2026-01-19",
-    "month": 1,
-    "day": 19,
-    "title": "Todo lo que Dijimos Ayer",
-    "author": "Marco Aurelio",
-    "tags": [
-      "presente",
-      "suposiciones",
-      "muerte",
-      "atención plena"
-    ]
-  },
-  {
-    "date": "2026-01-18",
-    "month": 1,
-    "day": 18,
-    "title": "Observa las Palabras con Cuidado",
-    "author": "Zenón de Citio",
-    "tags": [
-      "palabras",
-      "prudencia",
-      "silencio",
-      "comunicación"
-    ]
-  },
-  {
-    "date": "2026-01-17",
-    "month": 1,
-    "day": 17,
-    "title": "La Disciplina del Deseo",
-    "author": "Epicteto",
-    "tags": [
-      "deseo",
-      "aceptación",
-      "serenidad",
-      "expectativas"
-    ]
-  },
-  {
-    "date": "2026-01-16",
-    "month": 1,
-    "day": 16,
-    "title": "No Hagas que las Cosas Sean Más Difíciles de lo Necesario",
-    "author": "Marco Aurelio",
-    "tags": [
-      "juicio",
-      "percepción",
-      "sufrimiento",
-      "simplicidad"
-    ]
-  },
-  {
-    "date": "2026-01-15",
-    "month": 1,
-    "day": 15,
-    "title": "La Paz en el Interior",
-    "author": "Marco Aurelio",
-    "tags": [
-      "paz interior",
-      "tranquilidad",
-      "meditación",
-      "retiro"
-    ]
-  },
-  {
-    "date": "2026-01-14",
-    "month": 1,
-    "day": 14,
-    "title": "Gana la Mañana",
-    "author": "Marco Aurelio",
-    "tags": [
-      "mañana",
-      "rutina",
-      "propósito",
-      "disciplina"
-    ]
-  },
-  {
-    "date": "2026-01-13",
-    "month": 1,
-    "day": 13,
-    "title": "Toma Vuelo de la Compañía Tóxica",
-    "author": "Epicteto",
-    "tags": [
-      "compañía",
-      "influencia",
-      "carácter",
-      "entorno"
-    ]
-  },
-  {
-    "date": "2026-01-12",
-    "month": 1,
-    "day": 12,
-    "title": "La Única Riqueza Real",
-    "author": "Séneca",
-    "tags": [
-      "riqueza",
-      "deseo",
-      "moderación",
-      "codicia"
-    ]
-  },
-  {
-    "date": "2026-01-11",
-    "month": 1,
-    "day": 11,
-    "title": "Si Quieres Ser Libre",
-    "author": "Epicteto",
-    "tags": [
-      "libertad",
-      "crítica",
-      "humildad",
-      "opiniones"
-    ]
-  },
-  {
-    "date": "2026-01-10",
-    "month": 1,
-    "day": 10,
-    "title": "Si Quieres Ser Constante",
-    "author": "Epicteto",
-    "tags": [
-      "humildad",
-      "progreso",
-      "ego"
-    ]
-  },
-  {
-    "date": "2026-01-09",
-    "month": 1,
-    "day": 9,
-    "title": "Lo Que Controlamos y Lo Que No",
-    "author": "Epicteto",
-    "tags": [
+      "bien",
+      "Epicteto",
       "control",
-      "dicotomía del control",
-      "aceptación"
+      "voluntad",
+      "libertad",
+      "dependencia",
+      "domingo",
+      "abril",
+      "carácter"
     ]
   },
   {
-    "date": "2026-01-08",
-    "month": 1,
-    "day": 8,
-    "title": "Viendo las Cosas Como el Estudiante Atento",
+    "date": "2026-04-06",
+    "month": 4,
+    "day": 6,
+    "title": "Lo que las Cosas Son, No lo que Parecen",
     "author": "Marco Aurelio",
     "tags": [
-      "observación",
-      "aprendizaje",
-      "atención"
+      "percepción",
+      "juicio",
+      "Marco Aurelio",
+      "pensamiento sin sesgos",
+      "unbiased thought",
+      "lunes",
+      "abril",
+      "libertad interior",
+      "reacción",
+      "claridad",
+      "meditaciones",
+      "autoconocimiento",
+      "emoción",
+      "impresión"
     ]
   },
   {
-    "date": "2026-01-07",
-    "month": 1,
+    "date": "2026-04-07",
+    "month": 4,
     "day": 7,
-    "title": "Siete Funciones Claras de la Mente",
+    "title": "Examina Tus Impresiones",
     "author": "Epicteto",
+    "tags": [
+      "impresiones",
+      "percepción",
+      "Epicteto",
+      "claridad mental",
+      "disciplina",
+      "pausa",
+      "martes",
+      "abril",
+      "juicio",
+      "reacción",
+      "discursos",
+      "libertad",
+      "mente",
+      "pensamiento sin sesgos"
+    ]
+  },
+  {
+    "date": "2026-04-08",
+    "month": 4,
+    "day": 8,
+    "title": "No Añadas Una Segunda Herida",
+    "author": "Marco Aurelio",
+    "tags": [
+      "dolor",
+      "juicio",
+      "Marco Aurelio",
+      "resiliencia",
+      "miércoles",
+      "abril",
+      "disciplina mental"
+    ]
+  },
+  {
+    "date": "2026-04-09",
+    "month": 4,
+    "day": 9,
+    "title": "La Prueba Está en la Acción",
+    "author": "Epicteto",
+    "tags": [
+      "acción",
+      "Epicteto",
+      "virtud",
+      "disciplina",
+      "jueves",
+      "abril",
+      "hábitos"
+    ]
+  },
+  {
+    "date": "2026-04-10",
+    "month": 4,
+    "day": 10,
+    "title": "Tu Mente Necesita Guardias en la Puerta",
+    "author": "Séneca",
     "tags": [
       "mente",
-      "conciencia",
-      "funciones mentales"
-    ]
-  },
-  {
-    "date": "2026-01-06",
-    "month": 1,
-    "day": 6,
-    "title": "Donde, Quién, Qué y Por Qué",
-    "author": "Marco Aurelio",
-    "tags": [
-      "propósito",
-      "autoconocimiento",
-      "aprobación"
-    ]
-  },
-  {
-    "date": "2026-01-05",
-    "month": 1,
-    "day": 5,
-    "title": "Aclara Tus Intenciones",
-    "author": "Séneca",
-    "tags": [
-      "intención",
-      "propósito",
-      "claridad"
-    ]
-  },
-  {
-    "date": "2026-01-04",
-    "month": 1,
-    "day": 4,
-    "title": "La Gran Arena de la Vida",
-    "author": "Epicteto",
-    "tags": [
-      "acción",
-      "participación",
-      "virtud"
-    ]
-  },
-  {
-    "date": "2026-01-03",
-    "month": 1,
-    "day": 3,
-    "title": "Sé Implacable con las Cosas que No Importan",
-    "author": "Séneca",
-    "tags": [
-      "enfoque",
-      "prioridades",
-      "atención"
-    ]
-  },
-  {
-    "date": "2026-01-02",
-    "month": 1,
-    "day": 2,
-    "title": "Educación Es Libertad",
-    "author": "Epicteto",
-    "tags": [
-      "educación",
-      "libertad",
-      "aprendizaje"
-    ]
-  },
-  {
-    "date": "2026-01-01",
-    "month": 1,
-    "day": 1,
-    "title": "Control y Elección",
-    "author": "Epicteto",
-    "tags": [
-      "control",
-      "elección",
-      "dicotomía del control"
+      "Séneca",
+      "atención",
+      "discernimiento",
+      "viernes",
+      "abril",
+      "paz interior"
     ]
   }
 ]

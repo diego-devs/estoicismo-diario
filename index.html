@@ -443,7 +443,7 @@
         }
 
         .article-card.expanded .article-content {
-            max-height: 800px;
+            max-height: var(--article-content-height, 0px);
         }
 
         .article-content-inner {
@@ -1040,13 +1040,12 @@
         // Close all other expanded cards
         document.querySelectorAll('.article-card.expanded').forEach(c => {
             c.classList.remove('expanded');
+            c.style.removeProperty('--article-content-height');
         });
 
         if (wasExpanded) return;
 
-        card.classList.add('expanded');
-
-        // Load content if not loaded
+        // Load content if not loaded before measuring height
         const contentDiv = document.getElementById(`content-${date}`);
         if (contentDiv.querySelector('.loading')) {
             try {
@@ -1072,6 +1071,9 @@
                 console.error(err);
             }
         }
+
+        card.style.setProperty('--article-content-height', `${contentDiv.scrollHeight}px`);
+        card.classList.add('expanded');
 
         // Scroll to card
         setTimeout(() => {
