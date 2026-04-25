@@ -1,1 +1,2 @@
-subscribers/
+subscribers/*
+!subscribers/list.json
