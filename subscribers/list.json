@@ -1,0 +1,10 @@
+{
+  "subscribers": [
+    {
+      "email": "d_diazmendoza@hotmail.com",
+      "active": true,
+      "subscribedAt": "2026-04-25T19:00:00Z",
+      "source": "manual_seed"
+    }
+  ]
+}
