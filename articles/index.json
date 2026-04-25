@@ -1665,5 +1665,53 @@
       "carácter",
       "resiliencia"
     ]
+  },
+  {
+    "date": "2026-04-23",
+    "month": 4,
+    "day": 23,
+    "title": "No Te Añadas un Segundo Sufrimiento",
+    "author": "Epicteto",
+    "tags": [
+      "sufrimiento",
+      "Epicteto",
+      "abril",
+      "mente",
+      "disciplina",
+      "interpretación",
+      "dolor"
+    ]
+  },
+  {
+    "date": "2026-04-24",
+    "month": 4,
+    "day": 24,
+    "title": "Que Tu Norma No Cambie con el Ambiente",
+    "author": "Marco Aurelio",
+    "tags": [
+      "carácter",
+      "Marco Aurelio",
+      "abril",
+      "principios",
+      "entorno",
+      "dignidad",
+      "autodominio"
+    ]
+  },
+  {
+    "date": "2026-04-25",
+    "month": 4,
+    "day": 25,
+    "title": "La Prisa También Deforma el Juicio",
+    "author": "Séneca",
+    "tags": [
+      "prisa",
+      "Séneca",
+      "abril",
+      "juicio",
+      "pausa",
+      "claridad",
+      "discernimiento"
+    ]
   }
 ]
